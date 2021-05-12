@@ -1,6 +1,6 @@
 subor6
 ss
-ahoj
+
 mnau
 cau
 zmena z githubu
